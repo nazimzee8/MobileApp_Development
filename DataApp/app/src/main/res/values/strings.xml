@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Data Lab</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="LOGIN_PREFS">edu.tacoma.uw.datalab.PREFS</string>
+    <string name="LOGGEDIN">loggedin</string>
+    <string name="action_logout">Sign Out</string>
+</resources>
